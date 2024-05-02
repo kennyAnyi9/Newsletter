@@ -1,2 +1,2 @@
 # Newsletter
-Contains latex condes on inflation index
+Contains latex codes on inflation index
